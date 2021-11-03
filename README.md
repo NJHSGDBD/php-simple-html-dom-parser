@@ -1,4 +1,4 @@
-php-simple-html-dom-parser(zsq-modify)
+php-simple-html-dom-parser
 ==========================
 
 Version 1.5.2
